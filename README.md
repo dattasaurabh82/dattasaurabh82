@@ -5,6 +5,10 @@
 - 🌱 I’m currently learning to manage time
 - 💞️ I’m looking to collaborate on hardware projects
 - 📫 hi@dattasaurabh.com
+- Other Github spaces I'm part of:
+  - [DattaBaum(Organization)](https://github.com/devATdbsutdio)
+  - [zigzag (Personal)](https://github.com/dattazigzag)
+  - [zigzag (Organization)](https://github.com/zigzagGmbH)
 
 <!---
 dattasaurabh82/dattasaurabh82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
